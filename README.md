@@ -15,7 +15,7 @@ module.exports = {
 **tagHash** - a 32 chars hash which can be found under Cheq's invocation code url.
 
 ```
-https://ob.cheqzone.com/i/[TAG_HASH].js
+https://[domain]/i/[TAG_HASH].js
 ```
 
 **decryptionKey** - a 24 chars decryption key given by Cheq.
